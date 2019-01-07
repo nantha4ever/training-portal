@@ -1,0 +1,28 @@
+{
+  "name": "training-portal",
+  "version": "1.0.0",
+  "description": "Trainig \u001b[D\u001b[Dn\u001b[C\u001b[Dg Pr\u001b[1;2Dortal for Comcat\u001b[Dst India",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nantha4ever/training-portal.git"
+  },
+  "keywords": [
+    "Training",
+    "Portal",
+    "CE\u001b[1;2DIEC"
+  ],
+  "author": "Nanthakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nantha4ever/training-portal/issues"
+  },
+  "homepage": "https://github.com/nantha4ever/training-portal#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
